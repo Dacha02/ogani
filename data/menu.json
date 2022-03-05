@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Početna",
+    "src": "./index.html"
+  },
+  {
+    "id": 2,
+    "name": "Shop",
+    "src": "./shop-grid.html"
+  },
+  {
+    "id": 3,
+    "name": "Autor",
+    "src": "https://dacha02.github.io/davidstevicportfolio/"
+  },
+  {
+    "id": 4,
+    "name": "Kontakt",
+    "src": "./contact.html"
+  }
+]

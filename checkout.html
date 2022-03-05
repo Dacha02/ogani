@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="zxx">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Ogani Template" />
+    <meta name="keywords" content="Ogani, unica, creative, html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Ogani</title>
+
+    <!-- Google Font -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/x-icon" href="/img/logo.png" />
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/elegant-icons.css" type="text/css" />
+    <link rel="stylesheet" href="css/nice-select.css" type="text/css" />
+    <link rel="stylesheet" href="css/jquery-ui.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/slicknav.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+  </head>
+
+  <body>
+    <!-- Page Preloder -->
+    <div id="preloder">
+      <div class="loader"></div>
+    </div>
+
+    <!-- Humberger Begin -->
+    <div class="humberger__menu__overlay"></div>
+    <div class="humberger__menu__wrapper">
+      <div class="humberger__menu__logo">
+        <a href="#"><img src="img/logo.png" alt="" /></a>
+      </div>
+      <div class="humberger__menu__cart">
+        <ul>
+          <li>
+            <a href="#"
+              ><i class="fa fa-shopping-bag"></i> <span id="korpicaBroj"></span
+            ></a>
+          </li>
+        </ul>
+        <!-- <div class="header__cart__price">
+          ukupno: <span id="ukupnaCena2"></span>
+        </div> -->
+      </div>
+      <!-- <div class="humberger__menu__widget">
+        <div class="header__top__right__language">
+          <img src="img/language.png" alt="" />
+          <div>English</div>
+          <span class="arrow_carrot-down"></span>
+          <ul>
+            <li><a href="#">Spanis</a></li>
+            <li><a href="#">English</a></li>
+          </ul>
+        </div>
+        <div class="header__top__right__auth">
+          <a href="#"><i class="fa fa-user"></i> Login</a>
+        </div>
+      </div> -->
+      <nav class="humberger__menu__nav mobile-menu">
+        <ul>
+          <li class="active"><a href="./index.html">Početna</a></li>
+          <li><a href="./shop-grid.html">Shop</a></li>
+          <li>
+            <a href="#">Autor</a>
+            <!-- <ul class="header__menu__dropdown">
+              <li><a href="./shop-details.html">Shop Details</a></li>
+              <li><a href="./shoping-cart.html">Shoping Cart</a></li>
+              <li><a href="./checkout.html">Check Out</a></li>
+              <li><a href="./blog-details.html">Blog Details</a></li>
+            </ul> -->
+          </li>
+          <!-- <li><a href="./blog.html">Blog</a></li> -->
+          <li><a href="./contact.html">Kontakt</a></li>
+        </ul>
+      </nav>
+      <div id="mobile-menu-wrap"></div>
+      <div class="header__top__right__social">
+        <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+        <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+        <a href="https://www.linkedin.com/feed/"
+          ><i class="fa fa-linkedin"></i
+        ></a>
+        <a href="https://www.pinterest.com/"
+          ><i class="fa fa-pinterest-p"></i
+        ></a>
+      </div>
+      <div class="humberger__menu__contact">
+        <ul>
+          <li><i class="fa fa-envelope"></i> oganishop@gmail.com</li>
+          <li>Besplatna dostava na kupovinu preko 3000 RSD</li>
+        </ul>
+      </div>
+    </div>
+    <!-- Humberger End -->
+
+    <!-- Header Section Begin -->
+    <header class="header">
+      <div class="header__top">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6">
+              <div class="header__top__left">
+                <ul>
+                  <li><i class="fa fa-envelope"></i> oganishop@gmail.com</li>
+                  <li>Besplatna dostava na kupovinu preko 3000 RSD</li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="header__top__right">
+                <div class="header__top__right__social">
+                  <a href="https://www.facebook.com/"
+                    ><i class="fa fa-facebook"></i
+                  ></a>
+                  <a href="https://twitter.com/"
+                    ><i class="fa fa-twitter"></i
+                  ></a>
+                  <a href="https://www.linkedin.com/feed/"
+                    ><i class="fa fa-linkedin"></i
+                  ></a>
+                  <a href="https://www.pinterest.com/"
+                    ><i class="fa fa-pinterest-p"></i
+                  ></a>
+                </div>
+                <!-- <div class="header__top__right__language">
+                  <img src="img/language.png" alt="" />
+                  <div>English</div>
+                  <span class="arrow_carrot-down"></span>
+                  <ul>
+                    <li><a href="#">Spanis</a></li>
+                    <li><a href="#">English</a></li>
+                  </ul>
+                </div>
+                <div class="header__top__right__auth">
+                  <a href="#"><i class="fa fa-user"></i> Login</a>
+                </div> -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3">
+            <div class="header__logo">
+              <a href="./index.html"><img src="img/logo.png" alt="" /></a>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <nav class="header__menu">
+              <!--  <ul>
+            <li><a href="./index.html">Home</a></li>
+            <li class="active"><a href="./shop-grid.html">Shop</a></li>
+            <li><a href="#">Pages</a>
+              <ul class="header__menu__dropdown">
+                <li><a href="./shop-details.html">Shop Details</a></li>
+                <li><a href="./shoping-cart.html">Shoping Cart</a></li>
+                <li><a href="./checkout.html">Check Out</a></li>
+                <li><a href="./blog-details.html">Blog Details</a></li>
+              </ul>
+            </li>
+            <li><a href="./blog.html">Blog</a></li>
+            <li><a href="./contact.html">Contact</a></li>
+          </ul> -->
+            </nav>
+          </div>
+          <div class="col-lg-3">
+            <div class="header__cart">
+              <ul>
+                <li>
+                  <a href="shoping-cart.html"
+                    ><i class="fa fa-shopping-bag"></i>
+                    <span id="korpicaBroj2"></span
+                  ></a>
+                </li>
+              </ul>
+              <div class="header__cart__price">
+                ukupno: <span class="ukupnaCena">0.00 RSD</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="humberger__open">
+          <i class="fa fa-bars"></i>
+        </div>
+      </div>
+    </header>
+    <!-- Header Section End -->
+
+    <!-- Hero Section Begin -->
+    <section class="hero hero-normal">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3">
+            <div class="hero__categories">
+              <div class="hero__categories__all">
+                <i class="fa fa-bars"></i>
+                <span>Svi odeljci</span>
+              </div>
+              <ul id="kategorijeMeni">
+                <!-- <li><a href="#">Fresh Meat</a></li>
+                <li><a href="#">Vegetables</a></li>
+                <li><a href="#">Fruit & Nut Gifts</a></li>
+                <li><a href="#">Fresh Berries</a></li>
+                <li><a href="#">Ocean Foods</a></li>
+                <li><a href="#">Butter & Eggs</a></li>
+                <li><a href="#">Fastfood</a></li>
+                <li><a href="#">Fresh Onion</a></li>
+                <li><a href="#">Papayaya & Crisps</a></li>
+                <li><a href="#">Oatmeal</a></li>
+                <li><a href="#">Fresh Bananas</a></li> -->
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-9">
+            <div class="hero__search">
+              <div class="hero__search__form">
+                <form action="#">
+                  <!-- <div class="hero__search__categories">
+                    All Categories
+                    <span class="arrow_carrot-down"></span>
+                  </div> -->
+                  <input
+                    id="poljeZaPretragu"
+                    type="text"
+                    placeholder="Unesite pojam za pretragu"
+                  />
+                  <button id="btnPretraga" type="submit" class="site-btn">
+                    PRETRAGA
+                  </button>
+                </form>
+              </div>
+              <div class="hero__search__phone">
+                <div class="hero__search__phone__icon">
+                  <i class="fa fa-phone"></i>
+                </div>
+                <div class="hero__search__phone__text">
+                  <h5>+381 63 996 851</h5>
+                  <span>podrška 24/7 time</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Hero Section End -->
+
+    <!-- Breadcrumb Section Begin -->
+    <section class="breadcrumb-section set-bg" data-setbg="img/breadcrumb.jpg">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <div class="breadcrumb__text">
+              <h2>Checkout</h2>
+              <div class="breadcrumb__option">
+                <a href="./index.html">Home</a>
+                <span>Checkout</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Breadcrumb Section End -->
+
+    <!-- Checkout Section Begin -->
+    <section class="checkout spad">
+      <div class="container">
+        <!-- <div class="row">
+          <div class="col-lg-12">
+            <h6>
+              <span class="icon_tag_alt"></span> Have a coupon?
+              <a href="#">Click here</a> to enter your code
+            </h6>
+          </div>
+        </div> -->
+        <div class="checkout__form">
+          <h4>Podaci kupca</h4>
+          <form action="#">
+            <div class="row">
+              <div class="col-lg-8 col-md-6">
+                <div class="row">
+                  <div class="col-lg-12">
+                    <div class="checkout__input">
+                      <p>Ime i prezime<span>*</span></p>
+                      <span class="text-danger" id="greskaIme"></span>
+                      <input
+                        placeholder="John Doe"
+                        type="text"
+                        id="imePrezime"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div class="checkout__input">
+                  <p>Email<span>*</span></p>
+                  <span class="text-danger" id="greskaEmail"></span>
+                  <input type="text" id="email" placeholder="ogani@gmail.com" />
+                </div>
+                <div class="checkout__input">
+                  <p>Adresa<span>*</span></p>
+                  <span class="text-danger" id="greskaAdresa"></span>
+                  <input id="adresa" type="text" placeholder="Brace Grim 32" />
+                </div>
+                <div class="checkout__input">
+                  <p>Grad<span>*</span></p>
+                  <span class="text-danger" id="greskaGrad"></span>
+                  <input placeholder="Beograd" type="text" id="grad" />
+                </div>
+                <div class="checkout__input">
+                  <p>Poštanski broj<span>*</span></p>
+                  <span class="text-danger" id="greskaPostanskiBroj"></span>
+                  <input placeholder="11307" type="text" id="postanskiBroj" />
+                </div>
+                <div class="row">
+                  <div class="col-lg-12">
+                    <div class="checkout__input">
+                      <p>Telefon<span>*</span></p>
+                      <span class="text-danger" id="greskaTelefon"></span>
+                      <input placeholder="061456789" type="text" id="telefon" />
+                    </div>
+                  </div>
+                </div>
+                <!-- <div class="checkout__input__checkbox">
+                  <label for="acc">
+                    Create an account?
+                    <input type="checkbox" id="acc" />
+                    <span class="checkmark"></span>
+                  </label>
+                </div>
+                <p>
+                  Create an account by entering the information below. If you
+                  are a returning customer please login at the top of the page
+                </p>
+                <div class="checkout__input">
+                  <p>Account Password<span>*</span></p>
+                  <input type="text" />
+                </div>
+                <div class="checkout__input__checkbox">
+                  <label for="diff-acc">
+                    Ship to a different address?
+                    <input type="checkbox" id="diff-acc" />
+                    <span class="checkmark"></span>
+                  </label>
+                </div>
+                <div class="checkout__input">
+                  <p>Order notes<span>*</span></p>
+                  <input
+                    type="text"
+                    placeholder="Notes about your order, e.g. special notes for delivery."
+                  />
+                </div> -->
+              </div>
+              <div class="col-lg-4 col-md-6">
+                <div class="checkout__order">
+                  <h4>Vaša porudzbina</h4>
+                  <div class="checkout__order__products">
+                    Proizvodi <span>Ukupno</span>
+                  </div>
+                  <ul id="porudzbina-stavke">
+                    <!-- <li>Vegetable’s Package <span>$75.99</span></li>
+                    <li>Fresh Vegetable <span>$151.99</span></li>
+                    <li>Organic Bananas <span>$53.99</span></li> -->
+                  </ul>
+                  <div class="checkout__order__subtotal">
+                    Dostava <span id="besplatno"></span>
+                  </div>
+                  <div class="checkout__order__total">
+                    Ukupno <span id="ukupno"></span>
+                  </div>
+                  <div>
+                    <label for="pouzece">
+                      <input
+                        type="radio"
+                        id="pouzece"
+                        name="placanje"
+                        checked
+                        class="radioLice"
+                        value="pouzece"
+                      />
+                      Plaćanje pouzećem
+                    </label>
+                  </div>
+                  <div>
+                    <label for="tekuciRacun">
+                      <input
+                        type="radio"
+                        name="placanje"
+                        id="tekuciRacun"
+                        class="radioLice"
+                        value="tekuciRacun"
+                      />
+                      Uplata na tekući račun
+                    </label>
+                    <p class="invisible" id="pouzeceKom">
+                      Nakon što završite proces naručivanja, na vašu e-mail
+                      adresu će stići uplatnica popunjena sa svim potrebnim
+                      podacima za uplatu. Uplatu možete izvršiti u svim bankama
+                      i poštama u Srbiji.
+                    </p>
+                  </div>
+                  <!-- <div class="checkout__input__checkbox">
+                    <label for="paypal">
+                      Paypal
+                      <input type="checkbox" id="paypal" />
+                      <span class="checkmark"></span>
+                    </label>
+                  </div> -->
+                  <button
+                    type="submit"
+                    class="site-btn"
+                    id="btnSlanjePorudzbine"
+                  >
+                    Posalji porudzbinu
+                  </button>
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </section>
+    <!-- Checkout Section End -->
+
+    <!-- Footer Section Begin -->
+    <footer class="footer spad">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="footer__about">
+              <div class="footer__about__logo">
+                <a href="./index.html"><img src="img/logo.png" alt="" /></a>
+              </div>
+              <ul>
+                <li>Adresa: Braće Grim 32</li>
+                <li>Phone: +381 63 996 851</li>
+                <li>Email: oganishop@gmail.com</li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-1">
+            <div class="footer__widget">
+              <h6>Korisni linkovi</h6>
+              <div class="footerMenu"></div>
+              <!-- <ul>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">About Our Shop</a></li>
+                <li><a href="#">Secure Shopping</a></li>
+                <li><a href="#">Delivery infomation</a></li>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">Our Sitemap</a></li>
+              </ul>
+              <ul>
+                <li><a href="#">Who We Are</a></li>
+                <li><a href="#">Our Services</a></li>
+                <li><a href="#">Projects</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Innovation</a></li>
+                <li><a href="#">Testimonials</a></li>
+              </ul> -->
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-12">
+            <div class="footer__widget">
+              <h6>Pijavite se na newsletter</h6>
+              <p>
+                Dobijajte novosti e-poštom o našoj najnovijoj prodavnici i
+                specijalnim ponudama.
+              </p>
+              <form action="#">
+                <input
+                  type="text"
+                  id="inputNewsletter"
+                  placeholder="Unesite Vaš email"
+                />
+                <button type="submit" id="newsletter" class="site-btn">
+                  Pretplati se
+                </button>
+              </form>
+              <div class="footer__widget__social">
+                <a href="https://www.facebook.com/"
+                  ><i class="fa fa-facebook"></i
+                ></a>
+                <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+                <a href="https://www.linkedin.com/feed/"
+                  ><i class="fa fa-linkedin"></i
+                ></a>
+                <a href="https://www.pinterest.com/"
+                  ><i class="fa fa-pinterest-p"></i
+                ></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- <div class="row">
+          <div class="col-lg-12">
+            <div class="footer__copyright">
+              <div class="footer__copyright__text">
+                <p>
+                  Copyright &copy;
+                  <script>
+                    document.write(new Date().getFullYear());
+                  </script>
+                  All rights reserved | This template is made with
+                  <i class="fa fa-heart" aria-hidden="true"></i> by
+                  <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                </p>
+              </div>
+              <div class="footer__copyright__payment">
+                <img src="img/payment-item.png" alt="" />
+              </div>
+            </div>
+          </div>
+        </div> -->
+      </div>
+    </footer>
+    <!-- Footer Section End -->
+
+    <!-- Js Plugins -->
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.nice-select.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script src="js/jquery.slicknav.js"></script>
+    <script src="js/mixitup.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/main2.js"></script>
+  </body>
+</html>

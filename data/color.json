@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Žuta",
+    "code": "yellow"
+  },
+  {
+    "id": 2,
+    "name": "Zelena",
+    "code": "green"
+  },
+  {
+    "id": 3,
+    "name": "Braon",
+    "code": "brown"
+  },
+  {
+    "id": 4,
+    "name": "Bela",
+    "code": "white"
+  },
+  {
+    "id": 5,
+    "name": "Crvena",
+    "code": "red"
+  },
+  {
+    "id": 6,
+    "name": "Plava",
+    "code": "blue"
+  }
+]

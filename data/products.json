@@ -1,0 +1,682 @@
+[
+  {
+    "id": 1,
+    "title": "Organska banana",
+    "img": [
+      {
+        "src": "img/maleSlike/bananaNaslovna.png",
+        "alt": "banana1"
+      },
+      {
+        "src": "img/veceSlike/banana1.jpg",
+        "alt": "banana2"
+      },
+      {
+        "src": "img/veceSlike/banana2.jpg",
+        "alt": "banana3"
+      },
+      {
+        "src": "img/veceSlike/banana3.jpg",
+        "alt": "banana4"
+      }
+    ],
+    "price": {
+      "newPrice": 470.99,
+      "oldPrice": 590.99
+    },
+    "categoryId": 2,
+    "colorId": 1,
+    "sizeId": 2,
+    "shortDescription": "Banana sadrži tri vrste šećera: fruktozu, saharozu i glukozu ali i vlakna. Sadrži brojne vitamine i minerale, fosfor, mangan, magnezijum, kalijum, nikl..Posebno je bogata vitaminom B6. Preporučuje se za decu od početka uvođenja čvrste ishrane.",
+    "longDescription": "Banana je ime roda zeljastih biljaka i ekonomski važne vrste (Musa sapientium) iz familije Musaceae, kao i ime za plod ovih biljaka koji ljude koriste u ishrani kao voće.[1][2] Banana je jestivo voće, koje je sa botaničkog gledišta bobica.[1][2] Ona je plod nekoliko velikih zeljastih skrivenosjemenica iz roda Musa.[3] (U nekim zemljama, banane koje se koriste za kuvanje se nazivaju plantanima.) Ovo voće varira u pogledu veličine, boje i čvrstoće, mada je obično izduženo i povijeno, sa mekanim plodom bogatim skrobom, pokrivenim korom koja može da bude zelena, žuta, crven, purpurna, ili smeđa kod sazrelog voća. Plodovi rastu u grupama koje vise sa vrha biljke. Skoro sve moderne jestive partenokarpne (besemene) banane potiču iz dve divlje vrste – Musa acuminata i Musa balbisiana. Naučna imena najviše uzgajanih vrsta banana su Musa acuminata, Musa balbisiana, i Musa × paradisiaca za hibrid Musa acuminata × M. balbisiana, u zavisnosti od njihove genomske konstitucije. Starije naučno ime Musa sapientum se više ne koristi. Prirodno stanište vrsta Musa su tropski predeli Indomalezije i Australije, i pretpostavlja se da je do domestikacije prvobitno došlo u Papua Novoj Gvineji.[4][5] Banane se uzgajaju u bar 107 zemalja,[6] prvenstveno radi ploda, i u manjoj meri radi pravljenja vlakana, vina od banana i piva od banana, ili kao ornamentalne biljke.",
+    "status": true,
+    "weight": 1,
+    "dateTime": "2022-01-10T13:45:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Organska trešnja",
+    "img": [
+      {
+        "src": "img/maleSlike/tresnjaNaslovna.jpg",
+        "alt": "tresnja1"
+      },
+      {
+        "src": "img/veceSlike/tresnja1.jpg",
+        "alt": "tresnja2"
+      },
+      {
+        "src": "img/veceSlike/tresnja2.jpg",
+        "alt": "tresnja3"
+      },
+      {
+        "src": "img/veceSlike/tresnja3.jpg",
+        "alt": "tresnja4"
+      }
+    ],
+    "price": {
+      "newPrice": 600.99,
+      "oldPrice": 730.99
+    },
+    "categoryId": 2,
+    "colorId": 5,
+    "sizeId": 3,
+    "shortDescription": "Najbolje iz Srbije. Proizvod malih poljoprivrednih gazdinstva. Fairtrade proizvod. Sertifikovan organski proizvod.",
+    "longDescription": "Plod trešnje za komercijalne svrhe se obično dobija od ograničenog broja vrsta, kao što je kultivarska slatka trešanja, Prunus avium. Naziv 'trešnja' se takođe odnosi na drvo trešnje, i ponekad se primenjuje i na bademe i vizualno slične svetajuće biljke roda Prunus, kao što su „ornamentalna trešnja“, „Trešnjin cvet“, etc. Divlja trešnja se može odnositi na bilo koju vrstu trešnje koja nije kultivirana, mada se Prunus avium često specifično naziva tim imenom u Britaniji. ",
+    "status": false,
+    "weight": 1,
+    "dateTime": "2022-01-10T13:46:33.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Organska breskva",
+    "img": [
+      {
+        "src": "img/maleSlike/breskvaNaslovna.jpg",
+        "alt": "breskva1"
+      },
+      {
+        "src": "img/veceSlike/breskva1.jpg",
+        "alt": "breskva2"
+      },
+      {
+        "src": "img/veceSlike/breskva2.jpg",
+        "alt": "breskva3"
+      },
+      {
+        "src": "img/veceSlike/breskva3.jpg",
+        "alt": "breskva4"
+      }
+    ],
+    "price": {
+      "newPrice": 590.99,
+      "oldPrice": 640.99
+    },
+    "categoryId": 2,
+    "colorId": 1,
+    "sizeId": 2,
+    "shortDescription": "Breskva predstavlja riznicu beta karotina,vecine vitamina B grupe,ali i vitamina C,E i biotina.Jedna breskva u proseku sadrzi samo 59 kalorija,pa je odlican izbor za sve one koji vode racuna o telesnoj tezini.Omiljena je vocka za decu i odrasle.",
+    "longDescription": "Stabla breskve ne podnose velike hladnoće, pa se nemogu uspješno uzgajati tamo gdje se temperature spuštaju na -23 ° C - 26 ° C. S druge strane, ne rastu ni tamo gdje su zime suviše blage, jer većina sorti zahtijeva zimsku pauzu, da bi nakon tog u proljeće ponovno potekli sokovi. Breskvama odgovara različiti tip tla, ali najbolje rastu na dobro isušenim pješčanim ili šljunčanim ilovinama. Na većini tla breskve dobro reagiraju na dodatno gnojenje dušičnim gnojima, koje im pospješuje rast. Stabla su obično obrezuju jednom godišnje kako bi se spriječilo da ne izrastu previše u visinu, već da rastu u širinu i budu dovoljno prozračna, da svi cvjetovi prime dovoljno sunca. ",
+    "status": true,
+    "weight": 1,
+    "dateTime": "2022-01-10T13:46:45.000Z"
+  },
+  {
+    "id": 4,
+    "title": "Organska mandarina",
+    "img": [
+      {
+        "src": "img/maleSlike/mandarinaNaslovna.jpg",
+        "alt": "mandarina1"
+      },
+      {
+        "src": "img/veceSlike/mandarina1.jpg",
+        "alt": "mandarina2"
+      },
+      {
+        "src": "img/veceSlike/mandarina2.jpg",
+        "alt": "mandarina3"
+      },
+      {
+        "src": "img/veceSlike/mandarina3.jpg",
+        "alt": "mandarina4"
+      }
+    ],
+    "price": {
+      "newPrice": 390.99,
+      "oldPrice": 490.99
+    },
+    "categoryId": 2,
+    "colorId": 1,
+    "sizeId": 2,
+    "shortDescription": "Organska mandarina sadrži samo 34 kalorije i 30mg vitamina C. Odličan je izvor beta-karotena kao i vitamina A i folne kiseline. Organska mandarina se koristi za pripremu kremova, sladoleda i dezerata a sok mandarine je idealan sastojak za pripremu marinada i ribe.",
+    "longDescription": "Mandarina ili mandarinka (lat. Citrus reticulata) je biljka iz porodice Rutaceae, a pripada rodu Citrusa. Mandarine su zimzelene biljke, narastu do oko 3 metra visine, sa širim listovima od ostalih citrusa. Najbolje uspijeva u suptropskim krajevima jer je osjetljiva na hladnoću, posebno na temperature ispod ništice. U hrvatskim krajevima mandarina najbolje uspijeva u dolini Neretve gdje su odlični uvjeti za plantažno uzgajanje vrlo kvalitetnih sorti unšiu mandarina koje se uzgajaju od 1934. godine.  ",
+    "status": true,
+    "weight": 1,
+    "dateTime": "2022-01-10T13:46:50.000Z"
+  },
+  {
+    "id": 5,
+    "title": "Organska jagoda",
+    "img": [
+      {
+        "src": "img/maleSlike/jagodaNaslovna.jpg",
+        "alt": "jagoda1"
+      },
+      {
+        "src": "img/veceSlike/jagoda1.jpg",
+        "alt": "jagoda2"
+      },
+      {
+        "src": "img/veceSlike/jagoda2.jpg",
+        "alt": "jagoda3"
+      },
+      {
+        "src": "img/veceSlike/jagoda3.jpg",
+        "alt": "jagoda4"
+      }
+    ],
+    "price": {
+      "newPrice": 590.99,
+      "oldPrice": 660.99
+    },
+    "categoryId": 2,
+    "colorId": 5,
+    "sizeId": 2,
+    "shortDescription": "Jagoda je bogata vitaminima i mineralima i sadrži malo kalorija. Preporučuju se i u najranijim fazama trudnoće, za formiranje nervnog sistema fetusa. Sadrže mali procenat ugljenih hidrata 7,7g na 100g koji potiču iz voćnih šećera, glukoze, fruktoze i malo saharoze. Omiljena poslastica dece i odraslih, kao i sastavni deo svakog smutija, šejka, poslastice i voćne salate.",
+    "longDescription": "Baštenska jagoda ili samo jagoda (lat. Fragaria × ananassa) vrsta je zeljaste biljke iz istoimenog roda iz porodice ruža (Rosaceae). Jagoda je hibridna vrsta najpoznatija po svom plodu koji je široko rasprostranjen. Koristi se za proizvodnju raznih dezerta kao što su kolači, sladoledi, pite i čokolade. Najverovatnije je nastala ukrštanjem vrsta virdžinijska jagoda (Fragaria virginiana) i čileanska jagoda (Fragaria chiloensis).",
+    "status": false,
+    "weight": 0.25,
+    "dateTime": "2022-01-10T13:46:59.000Z"
+  },
+  {
+    "id": 6,
+    "title": "Organski brokoli",
+    "img": [
+      {
+        "src": "img/maleSlike/brokoliNaslovna.jpg",
+        "alt": "brokoli1"
+      },
+      {
+        "src": "img/veceSlike/brokoliNaslovna.jpg",
+        "alt": "brokoli2"
+      },
+      {
+        "src": "img/veceSlike/brokoli1.jpg",
+        "alt": "brokoli3"
+      },
+      {
+        "src": "img/veceSlike/brokoli3.jpg",
+        "alt": "brokoli3"
+      }
+    ],
+    "price": {
+      "newPrice": 790.99,
+      "oldPrice": null
+    },
+    "categoryId": 3,
+    "colorId": 2,
+    "sizeId": 3,
+    "shortDescription": "Brokoli je veoma vazna namirnica za sve one koji vode racuna o svom zdravlju. Korisna je i onima koji se bore sa viskom kilograma jer je niskokaloricna a pri tom bogata vitaminima i mineralima. U svom sastavu sadrzi kalijum, kalcijum, fosfor, magnezijujm, natrijum, gvozdje, cink, hrom, vitamine C, A, E, K, B1, B2, B6, B9, mnostvo flavonoida i enzima.",
+    "longDescription": "Brokule (lat. Brassica oleracea var. silvestris) su naziv za nekoliko kultivara divljeg kupusa (Brassicas). Ime potiče od ital. broccoli — granati kupus.Brokule su klasifikovane u kultivarsku grupu Italica vrste Brassica oleracea. Brokule imaju velike cvetne glave, obično tamnozelene boje, uređene u strukturu nalik na krošnju koja se izgranava iz debelog, jestivog stabla koje je obično svetlo zeleno. Masa cvetne glave je okružena listovima. Brokule podsećaju na karfiol, koji je različita kultivarska grupa iste Brassica vrste. Zajedno su 2016, Kina i Indija proizvele 73% svetske produkcije useva brokula i karfiloa.",
+    "status": true,
+    "weight": 1,
+    "dateTime": "2022-02-15T15:12:23.000Z"
+  },
+  {
+    "id": 7,
+    "title": "Organski crni luk",
+    "img": [
+      {
+        "src": "img/maleSlike/crniLukNaslovna.jpg",
+        "alt": "crniLukNaslovna1"
+      },
+      {
+        "src": "img/veceSlike/crniLukNaslovna.jpg",
+        "alt": "crniLukNaslovna2"
+      },
+      {
+        "src": "img/veceSlike/crniLuk2.jpg",
+        "alt": "crniLukNaslovna3"
+      },
+      {
+        "src": "img/veceSlike/crniLuk3.jpg",
+        "alt": "crniLukNaslovna3"
+      }
+    ],
+    "price": {
+      "newPrice": 290.99,
+      "oldPrice": null
+    },
+    "categoryId": 3,
+    "colorId": 3,
+    "sizeId": 2,
+    "shortDescription": "Organski crni luk je dobar izvor dijetalnih vlakana, vitamina C, vitamina B6, folne kiseline, kalijuma, mangana, kao i mnoštvo antioksidanasa. Organski crni luk je temelj svakog jela, salate a jako je zanimljiva i priprema džema od luka.",
+    "longDescription": "Crni luk (crveni luk, luk (obični); lat. Allium cepa) je dvogodišnja zeljasta biljka iz roda Allium. Uzgaja se kao povrće koje se koristi u ljudskoj ishrani za pripremu raznih salata i kao začin. To je zeljasta dvogodišnja biljka iz porodice ljiljana poreklom iz južne Azije, ali se i danas gaji širom sveta. Spada među najotpornije i najstarije vrste baštenskog povrća. Crni luk ima kuglastu cvast, zelenkastobelih cvetova na jednoj ili više stabljika bez listova. Osnova lista širi se i obrazuje podzemnu, jestivu lukovicu. Crni luk ima oštar ukus, pošto sadrži eterično ulje bogato sumporom, od guljenja ili seckanja oči mogu da suze. Crni luk može biti raznih veličina, oblika, boja i ljutine. Mada ima malo standardnih hranjivih sastojaka, ceni se zbog arome. Za crni luk tvrdilo se da leči prehladu, uhobolju i laringitis, a korišćen je i za lečenje od životinjskih ujeda, opekotina i bradavica; poput njegovog bliskog srodnika, belog luka, proučava se i zbog drugih mogućih povoljnih svojstava. ",
+    "status": false,
+    "weight": 1,
+    "dateTime": "2022-02-15T15:15:34.000Z"
+  },
+  {
+    "id": 8,
+    "title": "Organski crveni luk",
+    "img": [
+      {
+        "src": "img/maleSlike/crveniLukNaslovna.jpg",
+        "alt": "crveniLukNaslovna1"
+      },
+      {
+        "src": "img/veceSlike/crveniLukNaslovna.jpg",
+        "alt": "crveniLukNaslovna"
+      },
+      {
+        "src": "img/veceSlike/crveniLuk2.jpg",
+        "alt": "crveniLuk3"
+      },
+      {
+        "src": "img/veceSlike/crveniLuk3.jpg",
+        "alt": "crveniLuk4"
+      }
+    ],
+    "price": {
+      "newPrice": 280.79,
+      "oldPrice": 310.89
+    },
+    "categoryId": 3,
+    "colorId": 5,
+    "sizeId": 2,
+    "shortDescription": "Organski crveni luk sadrži visok udeo kvercetina, snažnog antioksidansa i veliku količinu lekovitih sumpornih jedinjenja. Sadrži i lekovite antocijanine koji su zaslužne za njegovu crvenu boju. Sastavni je deo svake salate i jela, posebno dekorativan i zdrav.",
+    "longDescription": "Crveni luk (obični luk, pravi luk, kapula, lat. Allium cepa) biljka je iz porodice Amaryllidaceae, nekada u porodici Alliaceae. Srodna je češnjaku, poriluku i vlascu. Upotrebljava se u kulinarstvu i medicini Pojam luk, kada je vezan za biljku koristi u imenu mnogih vrsta iz roda Allium, ali samo ime 'luk' bez pridjeva obično se odnosi na Allium cepa. Biljna vrsta Allium cepa poznata je samo kao kultivirana biljka, ali njezini divlji srodnici u prirodi se pojavljuju u središnjoj Aziji. Među najsrodnijim vrstama u prirodi smatraju se Allium vavilovii Popov & Vved. i Allium asarense R.M. Fritsch & Matin iz Irana, makar neki autori ističu mogućnost da su te vrste nastale sjemenskim uzgojem već kultiviranih sorti.Crveni luk je prebogat sastojcima za zdravlje srca. Luk je od davnine poznat i priznat prirodni antibiotik i antipiretik. Ta svojstva rezultat su sinergijskog djelovanja vitamina C, kvercetina i izotiocijanata. Luk je stoga posebno poželjna namirnica u razdoblju prehlada i gripe, a nekoliko studija ta je svojstva luka dovelo u pozitivnu vezu s olakšavanjem simptoma osteo i reumatoidnog artritisa te alergijskog rinitisa i astme",
+    "status": true,
+    "weight": 1,
+    "dateTime": "2022-02-15T15:16:46.000Z"
+  },
+  {
+    "id": 9,
+    "title": "Organski kupus",
+    "img": [
+      {
+        "src": "img/maleSlike/kupusNaslovna.jpg",
+        "alt": "kupusNaslovna1"
+      },
+      {
+        "src": "img/veceSlike/kupusNaslovna.jpg",
+        "alt": "kupusNaslovna2"
+      },
+      {
+        "src": "img/veceSlike/kupus2.jpg",
+        "alt": "kupus3"
+      },
+      {
+        "src": "img/veceSlike/kupus3.jpg",
+        "alt": "kupus4"
+      }
+    ],
+    "price": {
+      "newPrice": 290.99,
+      "oldPrice": 330.89
+    },
+    "categoryId": 3,
+    "colorId": 2,
+    "sizeId": 1,
+    "shortDescription": "Organski kupus je značajan izvor vitamina A,B,C i vitamina K, kao i mineralnih soli, celuloze, fosfora, kalcijuma, magnezijuma, cinka i sumpora. Na 100g kupusa ima 50mg vitamina C. Može se koristiti svež u salatama, kuvan ili pečen, kao i za pripremu zelenih sokova, posebno dobrih za detoksikaciju i dijete.",
+    "longDescription": "Kupus (Brassica oleracea var. capitata) je dvogodišnja, kultivisana, zeljasta biljka koja predstavlja važno povrće u ishrani. Nastala je selekcijom divljeg kupusa u dugom vremenskom razdoblju. Kupus je dvogodišnja ili višegodišnja zeljasta biljka. U toku prve godine obrazuje se „glavica“ koju čini skraćeno stablo, sa koga polazi veliki broj krupnih mesnatih listova. Sledeće godine se razvija stabljika visoka i do dva metra. Donji listovi na stabljici su široki, obuhvataju stabljiku a gornji su duguljasti sedeći. Cvetovi su grupisani u vršne rastresite grozdove. Krunični listići su žuti a plod je ljuska. Cveta od aprila do maja.",
+    "status": false,
+    "weight": 1,
+    "dateTime": "2022-02-15T15:18:11.000Z"
+  },
+  {
+    "id": 10,
+    "title": "Organski paradajz",
+    "img": [
+      {
+        "src": "img/maleSlike/paradajzNaslovna.jpg",
+        "alt": "paradajzNaslovna1"
+      },
+      {
+        "src": "img/veceSlike/paradajzNaslovna.jpg",
+        "alt": "paradajzNaslovna2"
+      },
+      {
+        "src": "img/veceSlike/paradajz4.jpg",
+        "alt": "paradajz3"
+      },
+      {
+        "src": "img/veceSlike/paradajz2.jpg",
+        "alt": "paradajz4"
+      }
+    ],
+    "price": {
+      "newPrice": 590.99,
+      "oldPrice": 650.99
+    },
+    "categoryId": 3,
+    "colorId": 5,
+    "sizeId": 2,
+    "shortDescription": "Da li ste znali da organski paradajz spada u voće i svrstan je u kategoriju bobicastog voća? Prepun je vitaminima A,C i E, kao i antioksidantima,a  crvenoj boji može da zahvali karotenoidu Likopenu, koji je jak antioksidans i ima antikancerogeno dejstvo. Sastavni je deo svih salata i jela i zbog svog slatkastog ukusa omiljen je svim generacijama.",
+    "longDescription": "Paradajz(lat. Solanum lycopersicum L.) je biljka iz porodice pomoćnica (Solanaceae) i u bliskom je srodstvu sa duvanom, krompirom, plavim patlidžanom i paprikom. Ova vrsta potiče iz zapadne Južne Amerike.[2][3] Navatlska (astečki jezik) reč tomatl je poslužila kao osnova španske reči tomate, odakle vodi poreklo i engleska reč tomato. Upotreba paradajza kao kultivirane hrane se smatra da potiče od domorodačkog stanovništva| Meksika. Španci su upoznali paradajz tokom njihovog kontakta sa Astecima u okviru španske kolonizacije Amerika i doneli su tu biljku u Evropu. Odatle se paradajz proširio na druge delove evropskog kolonizovanog sveta tokom 16. veka.",
+    "status": true,
+    "weight": 1,
+    "dateTime": "2022-02-15T15:19:05.000Z"
+  },
+  {
+    "id": 11,
+    "title": "Organska piletina",
+    "img": [
+      {
+        "src": "img/maleSlike/pileNaslovna.jpg",
+        "alt": "pileNaslovna1"
+      },
+      {
+        "src": "img/veceSlike/pile1.jpg",
+        "alt": "pile1"
+      },
+      {
+        "src": "img/veceSlike/pile2.jpg",
+        "alt": "pile2"
+      },
+      {
+        "src": "img/veceSlike/pile3.jpg",
+        "alt": "pile3"
+      }
+    ],
+    "price": {
+      "newPrice": 2370.99,
+      "oldPrice": 2970.99
+    },
+    "categoryId": 1,
+    "colorId": 4,
+    "sizeId": 1,
+    "shortDescription": "Organska piletina se gaji na farmi u Gospođincima u skladu sa zakonom o organskoj proizvodnji bez upotrebe veštačkih aditiva, hormona i antibiotika. Odgajamo posebne rase pilića pogodne za tradicionalne načine uzgajanja i spororastuće rase.",
+    "longDescription": "Kokoška, kokoš ili domaća kokoš (lat. Gallus gallus domesticus) je podvrsta ptice koja se često gaji kao živina. Smatra se da je poreklom iz jugoistočne Azije, i da je evoluirala od divljih podvrsta vrste Gallus gallus. Ova ptica je najrasprostranjenija na zemlji,sa totalnom populacijom od preko 19 milijardi po proceni iz 2011. godine.Ljudi uzgajaju kokoške prvenstveno kao izvor hrane, konzumirajući njihovo meso i jaja. Genetske studije ukazuju na višestruko materinsko poreklo u jugoistočnoj Aziji, istočnoj Aziji, i južnoj Aziji, dok klada prisutna u Amerikama, Evropi, Bliskom Istoku i Africi vodi poreklo sa Indijskog potkontinenta. Iz Indije, domestikovane kokoške su uvezene u Lidiju u zapadnoj Maloj Aziji, i u Grčku do petog veka p. n. e. Kokoške su bile poznate u Egiptu od sredine 15. veka p. n. e, pri čemu je „ptica koja daje život svakog dana“ preneta u Egipat iz oblasti između Sirije i Senara, Vavilonija, sudeći po analima Tutmesa III",
+    "status": true,
+    "weight": 3,
+    "dateTime": "2022-02-17T09:09:05.000Z"
+  },
+  {
+    "id": 12,
+    "title": "Organska govedina",
+    "img": [
+      {
+        "src": "img/maleSlike/govedinaNaslovna.jpg",
+        "alt": "govedinaNaslovna"
+      },
+      {
+        "src": "img/veceSlike/govedina1.jpg",
+        "alt": "govedina1"
+      },
+      {
+        "src": "img/veceSlike/govedina2.jpg",
+        "alt": "govedina2"
+      },
+      {
+        "src": "img/veceSlike/govedina3.jpg",
+        "alt": "govedina3"
+      }
+    ],
+    "price": {
+      "newPrice": 1690.99,
+      "oldPrice": 1850.99
+    },
+    "categoryId": 1,
+    "colorId": 5,
+    "sizeId": 2,
+    "shortDescription": "Organsko meso goveda hranjenih isključivo travom, koja se slobodno kreću i hrane na pašnjacima, bez antibiotika, hormona, GMO i ostataka teških metala i pesticida. Ne sadrži aditive, hormone, konzervanse, emulgatore, veštačke boje, arome i pojačavače ukusa. Org. meso ima lep ukus, miris i boju.",
+    "longDescription": "Goveda se uzgajaju i ishranjuju na različite načine, uključujući tovilišta, slobodni uzgoj, rančeve, ispašu i intenzivan uzgoj životinja. Operacije koncentrisane ishrane životinja (CAFO), koje se obično nazivaju fabričkim farmama, obično se koriste za zadovoljenje potražnje za proizvodnjom govedine. CAFO postrojenja snabdevaju 70,4% krava na tržištu SAD i 99% celokupnog mesa u snabdevanju Sjedinjenih Država. CAFO goveda takođe mogu biti izvor kontaminacije E. coli u snabdevanju hranom[8] zbog prevalencije stajnjaka u CAFO. Ove kontaminacije E. coli uključuju jedan soj, E. coli O157:H7, koji može biti toksičan za ljude, jer goveda obično drže ovaj soj u svom sistemu za varenje.[9] Još jedna posledica nehigijenskih uslova koje stvaraju zatvoreni sistemi visoke gustine je povećana upotreba antibiotika u cilju prevencije bolesti.[10] Analiza FDA podataka o prodaji od strane Saveta za odbranu prirodnih resursa otkrila je da je 42% medicinski važnih antibiotika u SAD bilo na stoci, što predstavlja zabrinutost u vezi sa razvojem bakterija otpornih na antibiotike",
+    "status": true,
+    "weight": 1,
+    "dateTime": "2022-02-17T09:10:15.000Z"
+  },
+  {
+    "id": 13,
+    "title": "Organska jaja 10 komada",
+    "img": [
+      {
+        "src": "img/maleSlike/jajeNaslovna.jpg",
+        "alt": "jajeNaslovna"
+      },
+      {
+        "src": "img/veceSlike/jajeNaslovna.jpg",
+        "alt": "jajeNaslovna2"
+      },
+      {
+        "src": "img/veceSlike/jaje2.jpg",
+        "alt": "jaje2"
+      },
+      {
+        "src": "img/veceSlike/jaje3.jpg",
+        "alt": "jaje3"
+      }
+    ],
+    "price": {
+      "newPrice": 450.99,
+      "oldPrice": null
+    },
+    "categoryId": 5,
+    "colorId": 3,
+    "sizeId": 3,
+    "shortDescription": "Organska jaja ne sadrže pesticide, hormone i teške metale. Proizvode se u skladu sa prirodom u slobodnom uzgoju. Organska jaja su bogata vitaminima B grupe, kao i vitaminima A,D,E i K,kao i luteinom koji ima zaštitno delovanje na bolesti očiju. Organska jaja su pravi izbor za decu i odrasle.",
+    "longDescription": "Jaja imaju široku primenu u kulinarstvu, zbog svoje velike hranljive vrednosti kao i zbog velikog broj raznovrsnih jela koja se mogu pripemiti od njih. Veliki sadržaja proteina i holina jaja svrstava u istu kategoriju kao i meso unutar piramide ishrane. Masovna proizvodnja kokošijih jaja je globalna industrija. U 2009. godini u svetu je proizvedeno oko 62,1 miliona metričkih tona jaja, koja je snelo stado od oko 6,4 milijardi kokošaka. Pored kokošjih jaja za ishanu se korite jaja gusaka, pataka, ćuraka i prepelica, ali u mnogo manjoj meri.",
+    "status": true,
+    "weight": 0.1,
+    "dateTime": "2022-02-17T09:15:35.000Z"
+  },
+  {
+    "id": 14,
+    "title": "Organski beli sir",
+    "img": [
+      {
+        "src": "img/maleSlike/sirNaslovna.jpg",
+        "alt": "sirNaslovna"
+      },
+      {
+        "src": "img/veceSlike/sir1.jpg",
+        "alt": "sirNaslovna2"
+      },
+      {
+        "src": "img/veceSlike/sir2.jpg",
+        "alt": "sir2"
+      },
+      {
+        "src": "img/veceSlike/sir3.jpg",
+        "alt": "sir3"
+      }
+    ],
+    "price": {
+      "newPrice": 290.99,
+      "oldPrice": 330.89
+    },
+    "categoryId": 5,
+    "colorId": 4,
+    "sizeId": 2,
+    "shortDescription": "Organski Sir Beli i mlečni proizvodi dobijeni su od krava koje su hranjene isključivo organskom hranom. Zemlja porekla: Srbija.",
+    "longDescription": "Biser bele sireve proizvodimo od najsvežijeg mleka od krava koje pasu na vojvođanskim pašnjacima, a koje prikupljamo u krugu od sto kilometara oko Zrenjanina. Prirodni sastojci, bez dodatka konzervansa i aditiva, garantuju svežinu i mlečni ukus tradicionalnih belih srpskih sireva. Kao deo tradicije na trpezi se redovno nalaze u raznim salatama, pitama i gibanicama, kao meze uz domaću pršutu i druge delikatese, a mogu se naći čak i desertima. Biser beli sirevi se u prodavnicama nalaze u delu za samoposluživanje u formatima prikladnim za svaku priliku, a dostupni su i na merenje na delikatesu.",
+    "status": false,
+    "weight": 0.25,
+    "dateTime": "2022-02-17T09:16:23.000Z"
+  },
+  {
+    "id": 15,
+    "title": "Organski puter",
+    "img": [
+      {
+        "src": "img/maleSlike/puterNaslovna.jpg",
+        "alt": "puterNaslovna"
+      },
+      {
+        "src": "img/veceSlike/puter3.jpg",
+        "alt": "puter3"
+      },
+      {
+        "src": "img/veceSlike/puter2.jpg",
+        "alt": "puter2"
+      },
+      {
+        "src": "img/veceSlike/puter1.jpg",
+        "alt": "puter1"
+      }
+    ],
+    "price": {
+      "newPrice": 1090.99,
+      "oldPrice": null
+    },
+    "categoryId": 5,
+    "colorId": 1,
+    "sizeId": 3,
+    "shortDescription": "Organski puter ili prečišćeni maslac je maslac koji je procesom termičke obrade oslobođen nečistoća poput mlečnog šećera( laktoze), zasicenih masnih kiselina, nekorisnih proteina, vode i drugih komponenti koje se nalaze u mleku. Organski Gi puter ima veoma bogat nutritivni sastav i sadrži pored kiselina i veliki broj vitamina i minerala kao i antioksidante. Može se koristiti kao zamena za namaze za doručak, večeru ili užinu, za pripremanje hrane kuvanje i pečenje, kao i kao sastojak za pripremu svih vrsta poslastica. Organski bez gmo.",
+    "longDescription": "Puter ili maslac je očvrsnuta mlečna mast zrnaste strukture u kojoj je oko 14 odsto, ravnomerno raspoređena blaga zakiseljena mlaćenica (surutka). Bogat je vitaminima koji se lako apsorbuju, pa tako jača funkcije nervnog sistema i popravlja raspoloženje. Puter sadrži sve vitamine topive u mastima: A, D, E i K. Puter poseduje takozvani Wulzen faktor (protiv ukočenosti), koji štiti od kalcifikacije u zglobovima i degenerativnih oboljenja koštano-zglobnog sistema. S obzirom na to da u svom sastavu ima buterne kiseline, maslac je odličan u prevenciji karcinoma debelog creva i ulceroznog kolitisa. Pospešuje takođe očuvanost crevne flore i normalno funkcionisanje organa za varenje, i na taj način sprečava razmnožavanje kandide u crevima.",
+    "status": true,
+    "weight": 0.24,
+    "dateTime": "2022-02-17T09:17:48.000Z"
+  },
+  {
+    "id": 16,
+    "title": "Organska sušena brusnica",
+    "img": [
+      {
+        "src": "img/maleSlike/susenaBrusnicaNaslovna.jpg",
+        "alt": "susenaBrusnicaNaslovna"
+      },
+      {
+        "src": "img/veceSlike/susenaBrusnica1.jpg",
+        "alt": "susenaBrusnica1"
+      },
+      {
+        "src": "img/veceSlike/susenaBrusnica2.jpg",
+        "alt": "susenaBrusnica2"
+      },
+      {
+        "src": "img/veceSlike/susenaBrusnica3.jpg",
+        "alt": "susenaBrusnica3"
+      }
+    ],
+    "price": {
+      "newPrice": 600.89,
+      "oldPrice": 650.99
+    },
+    "categoryId": 4,
+    "colorId": 5,
+    "sizeId": 3,
+    "shortDescription": "",
+    "longDescription": "Sušene brusnice mogu biti veoma zdrave namirnice, a mogu biti i štetne u zavisnosti koliko ima dodatog šećera i u kojoj količini se konzumiraju. Međutim, iako je njihova konzumacija kotraverzna, njihova popularnost sve više raste u kozmetičkoj industriji. Evo cele istine koliko su sušene brusnice zdrave, kako je najbolje da ih jedete i zašto su sve popularnije u kozmetičkoj industriji.",
+    "status": false,
+    "weight": 0.15,
+    "dateTime": "2022-02-17T09:18:59.000Z"
+  },
+  {
+    "id": 17,
+    "title": "Organske suve šljive",
+    "img": [
+      {
+        "src": "img/maleSlike/suveSljiveNaslovna.jpg",
+        "alt": "suveSljiveNaslovna"
+      },
+      {
+        "src": "img/veceSlike/suveSljive2.jpg",
+        "alt": "suveSljive2"
+      },
+      {
+        "src": "img/veceSlike/suveSljive1.jpg",
+        "alt": "suveSljive1"
+      },
+      {
+        "src": "img/veceSlike/suveSljive3.jpg",
+        "alt": "suveSljive3"
+      }
+    ],
+    "price": {
+      "newPrice": 599.99,
+      "oldPrice": 625.99
+    },
+    "categoryId": 4,
+    "colorId": 6,
+    "sizeId": 3,
+    "shortDescription": "Sušenje šljiva je način konzervicanja poznat od davnina. Još su ga Egipćani primenjivali pre više nekoliko hiljada godina izlaganjem suncu plodova raznih vrsta voća. Šljive su se uglavnom kao i ostalo voće sušile na suncu. Sušenjem na suncu, šljiva je pripremana za sopstvenu upotrebu. Mogućnost prodaje ovog proizvoda podstakla je proizviđače šljiva da osmisle veštački način sušenja i da suše šljivu u većim količinama od sopstvenih potreba. Suva šljiva sadrži gotovo sve materije koje se smatraju neophodnim za normalno funkcionisanje organizma. Zahvaljujući svom biohemijskom sastavu, suva šljiva se preporučuje za ishranu dece, stariji osoba i rekonvalescenata.",
+    "longDescription": "Suva šljiva nije samo poslastica već značajan izvor energije, s obzirom da se načinom prerade kalorična vrednost ovog proizvoda povećava za tri i po puta prema istoj vrednosti u svežem plodu. Osušene šljive su ne samo značajan izvor energije, već i hranljiva namirnica od posebnog dijetalnog značaja, koja se po svojoj važnosti i vrednosti u fiziološko energetskom pogledu izjednačuje sa korišćenom količinom svežeg voća pre sušenja. Vitamini sadržani u suvoj šljivi imaju značajnu zaštitnu, dijetalnu i terapeutsku vrednost. Nedostatak suve šljive je umanjen sadržaj vitamina C, jer se razlaže u procesu sušenja produženim dejstvom visokih temperatura. Celuloza sadržana u suvoj šljivi podstiče peristaltiku creva, a pektini doprinose zaštiti organizma od arterioskleroze i infarkta. Visoko prisustvo kalijuma deluje na smanjenje krvnog pritiska.",
+    "status": true,
+    "weight": 0.15,
+    "dateTime": "2022-02-17T09:18:59.000Z"
+  },
+  {
+    "id": 18,
+    "title": "Organska suva kajsija",
+    "img": [
+      {
+        "src": "img/maleSlike/suvaKajsijaNaslovna.jpg",
+        "alt": "suvaKajsijaNaslovna"
+      },
+      {
+        "src": "img/veceSlike/suvaKajsija3.jpg",
+        "alt": "suvaKajsija3"
+      },
+      {
+        "src": "img/veceSlike/suvaKajsija.jpg",
+        "alt": "suvaKajsija"
+      },
+      {
+        "src": "img/veceSlike/suvaKajsija2.jpg",
+        "alt": "suvaKajsija2"
+      }
+    ],
+    "price": {
+      "newPrice": 590.99,
+      "oldPrice": 670.99
+    },
+    "categoryId": 4,
+    "colorId": 1,
+    "sizeId": 2,
+    "shortDescription": "Suva kajsija sadrži veliki procenat vlakana, vitamina, belančevina, minerala i prirodnih šećera. Obiluje magnezijumom i vitaminom B. Sušene su na prirodan način, bez upotrebe oksid sumpora. Organski proizvod.",
+    "longDescription": "I sveže i suve, kajsije su super voće sa brojnim blagotvornim svojstvima za ljudsku ishranu. Za lekovita svojstva i pozitivan učinak kajsija na ceo organizam odavno su znali dugovečni stanovnici pakistanske doline Hunza. Njihova vitalnost i duboka starost povezuju se upravo sa čudesnom Prunius armeneiaca, koju na razne načine koriste u svojoj ishrani. Ulje od koštica i suve kajsije su, uz čisti planinski vazduh, zaslužni za njihovo dugo zdravlje. Sušene kajsije, zapravo, imaju mnogo više prednosti od svežih plodova, iako nema sumnje da ova ukusna narandžasta voćka u svakom obliku ima nebrojene koristi za naš organizam. Stvar je u tome da, tokom procesa sušenja, voće gubi vodu, a pritom se ne oštećuje i ne menja njegova nutritivna vrednost. Sušenjem se hranljiva vrednost kajsije pojačava, jer svi njeni dobri sastojci bivaju koncentrisani i destilovani u snažniji oblik.",
+    "status": true,
+    "weight": 0.25,
+    "dateTime": "2022-02-17T09:20:27.000Z"
+  },
+  {
+    "id": 19,
+    "title": "Organska suva banana",
+    "img": [
+      {
+        "src": "img/maleSlike/suvaBananaNaslovna.jpg",
+        "alt": "suvaBananaNaslovna"
+      },
+      {
+        "src": "img/veceSlike/suvaBanana1.jpg",
+        "alt": "suvaBanana1"
+      },
+      {
+        "src": "img/veceSlike/suvaBanana2.jpg",
+        "alt": "suvaBanana2"
+      },
+      {
+        "src": "img/veceSlike/suvaBanana3.jpg",
+        "alt": "suvaBanana3"
+      }
+    ],
+    "price": {
+      "newPrice": 330.99,
+      "oldPrice": 450.99
+    },
+    "categoryId": 4,
+    "colorId": 1,
+    "sizeId": 3,
+    "shortDescription": "Banana čips spada u zdravije grickalice, a dobija se prženjem komadića banana u svežem kokosovom ulju. Osim što je dobar izvor brzo iskoristive energije (tršcani šecer, kokosovo ulje), banana čips, kao i sveža banana, sadrži brojne hranljive sastojke koji doprinose dobrom zdravlju. Odličan je izvor energije i prirodni izvor kalijuma, magnezijuma i dijetetskih vlakana.",
+    "longDescription": "Suve banane su blagotvornije od drugog voća jer imaju najviše magnezijuma, gvožđa i vitamina B. Nutricionisti ih preporučuje umesto slatkiša, naročito osobama koje su izložene svakodnevnom stresu kao savršen štit u takvim situacijama.",
+    "status": true,
+    "weight": 0.15,
+    "dateTime": "2022-02-17T09:23:47.000Z"
+  },
+  {
+    "id": 20,
+    "title": "Organsko suvo groždje",
+    "img": [
+      {
+        "src": "img/maleSlike/suvoGrozdjeNaslovna.jpg",
+        "alt": "suvaBananaNaslovna"
+      },
+      {
+        "src": "img/veceSlike/suvoGrozdje1.jpg",
+        "alt": "suvoGrozdje1"
+      },
+      {
+        "src": "img/veceSlike/suvoGrozdje2.jpg",
+        "alt": "suvoGrozdje2"
+      },
+      {
+        "src": "img/veceSlike/suvoGrozdje3.jpg",
+        "alt": "suvoGrozdje3"
+      }
+    ],
+    "price": {
+      "newPrice": 405.99,
+      "oldPrice": 505.99
+    },
+    "categoryId": 4,
+    "colorId": 6,
+    "sizeId": 3,
+    "shortDescription": "Organsko grožđe je bogat izvor vitamina K,vitamina B kompeksa i bakra kao i nerastvorljivih vlakana.Poznato je da redovna konzumacija grozđa čuva organizam od infekcija ali i poboljšava memoriju i raspoloženje. Zbog svog prijatnog mirisa i slatkog ukusa omiljeno je voće svih generacija.",
+    "longDescription": "Suvo grožđe nastaje sušenjem grožđa i jedno je od najpopularnijih vrsta suvog voća. To je celovita i zdrava namirnica koja ima niz lekovitih svojstava. Zbog dugog roka trajanja od davnina se koristi kao izvor energije na dugim i napornim putovanjima. Danas se najviše ceni zbog ukusa i povoljne cene, a odlična je zamena za slatkiše. Najpopularniji je u pripremi kolača i ima brojna lekovita svojstva.",
+    "status": false,
+    "weight": 0.2,
+    "dateTime": "2022-02-17T09:23:47.000Z"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Sveže meso",
+    "img": {
+      "src": "img/veceSlike/pile1.jpg",
+      "alt": "imgCategory1"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Voće",
+    "img": {
+      "src": "img/veceSlike/breskva1.jpg",
+      "alt": "imgCategory5"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Povrće",
+    "img": {
+      "src": "img/veceSlike/brokoliNaslovna.jpg",
+      "alt": "imgCategory2"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Sušeno voće, povrće...",
+    "img": {
+      "src": "img/veceSlike/suvaKajsija3.jpg",
+      "alt": "imgCategory3"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Jaja i mlečni proizvodi",
+    "img": {
+      "src": "img/veceSlike/jajeNaslovna.jpg",
+      "alt": "imgCategory5"
+    }
+  }
+]
