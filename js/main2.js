@@ -848,7 +848,7 @@ $(window).load(function () {
                               href="#tabs-1"
                               role="tab"
                               aria-selected="true"
-                              >Description</a
+                              >Deskripcija</a
                             >
                           </li>
                           
@@ -856,7 +856,7 @@ $(window).load(function () {
                         <div class="tab-content">
                           <div class="tab-pane active" id="tabs-1" role="tabpanel">
                             <div class="product__details__tab__desc">
-                              <h6>Products Infomation</h6>
+                              <h6>Informacije o proizvodu</h6>
                               <p>${el.longDescription}
                               </p>
                             </div>
@@ -953,7 +953,7 @@ $(window).load(function () {
       let proizvodiKorpa = uzmiItemIzLocalStorage("proizvodiKorpa");
       if (proizvodiKorpa == null || proizvodiKorpa.length == 0) {
         let html = `<div class="praznaKorpa">
-                        <img  src="../img/cart/slikaKorpe.png" alt="slikaKorpe" />
+                        <img  src="img/cart/slikaKorpe.png" alt="slikaKorpe" />
                         <h3 class="mb-5">Vaša korpa je prazna</h3>
                     </div>`;
         $("#sadrzajKorpe").html(html);
