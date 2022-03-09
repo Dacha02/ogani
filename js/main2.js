@@ -24,16 +24,15 @@ $(window).load(function () {
   ajaxBekKol("menu.json", function (rezultat) {
     if (url === "/index.html" || url === "/") {
       ispisMenija(rezultat, 1);
-    } else if (url === "/shop-grid.html") {
-      ispisMenija(rezultat, 2);
-    } else if (url === "/contact.html") {
-      ispisMenija(rezultat, 3);
     } else if (
+      url === "/shop-grid.html" ||
       url === "/shop-details.html" ||
       url === "/shoping-cart.html" ||
       url === "/checkout.html"
     ) {
       ispisMenija(rezultat, 2);
+    } else if (url === "/contact.html") {
+      ispisMenija(rezultat, 4);
     }
   });
 
@@ -68,7 +67,7 @@ $(window).load(function () {
     });
   }
 
-  //Funkcija za slider carousel
+  //Funkcije za restartovanje slider-a
   function initializeCarousel() {
     $(".categories__slider").trigger("destroy.owl.carousel"); //these 3 lines kill the owl, and returns the markup to the initial state
     $(".categories__slider").find(".owl-stage-outer").children().unwrap();
@@ -301,7 +300,6 @@ $(window).load(function () {
       niz = pretraga(niz);
       $("#kolicinaProizvoda").html(niz.length);
       if (niz == "") {
-        console.log("alo");
         text = `<div class="nemogucFilter">
                     <h1>Nije moguće pronaći proizvode po zadatom kriterijumu.</h1>
                     <div id="ponistiFiltere" class="visible">
@@ -334,6 +332,7 @@ $(window).load(function () {
 
     $("#kategorijeMeni").html(html);
   }
+
   setujPozadinu();
   var pomId;
   //STRANICA INDEX---------------------------------------------------------------
@@ -1299,7 +1298,7 @@ function dodajProizvodKorpa(id, brojStavki) {
     dodajItemULocalStorage("proizvodiKorpa", proizvodiUnutarKorpe);
   }
 
-  /* Funkcija za dodavanje proizvoda u korpu koji trenutno nije u korpi */
+  /* Funkcija za dodavanje proizvoda u korpu koji nije u korpi */
   function dodajNoviProizvod(idProduct) {
     let zaKorpu = {
       id: idProduct,
@@ -1491,7 +1490,7 @@ $("#newsletter").on("click", (e) => {
   let value = $("#inputNewsletter").val();
   console.log(value);
   if (proveraEmail(value) == true && value != "") {
-    modal("Obaveštenje", "Uspesno ste se prijavili na newsletter!");
+    modal("Obaveštenje", "Uspešno ste se prijavili na newsletter!");
     $("#inputNewsletter").val("");
   } else {
     modal("Obaveštenje", "E-mail nije u ispravnom formatu");
